@@ -1,6 +1,9 @@
 # Walmart Sales Dashboard
 
 ## Screenshots
+
+![image](https://github.com/user-attachments/assets/4c41dfc9-ece1-41c5-b985-406c02bd170d)
+
 ![WhatsApp Image 2024-10-28 at 15 18 37_651fadc4](https://github.com/user-attachments/assets/0a160b48-e0f3-4254-ad5e-4ca5c1af6dee)
 
 ![WhatsApp Image 2024-10-28 at 15 18 37_f4ac8826](https://github.com/user-attachments/assets/077789e2-9595-483b-9a39-a358cc8896f8)
