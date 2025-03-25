@@ -1,6 +1,23 @@
 # Walmart Sales Dashboard
 
 ## Screenshots
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/4c41dfc9-ece1-41c5-b985-406c02bd170d" width="300" />
+    <img src="https://github.com/user-attachments/assets/0a160b48-e0f3-4254-ad5e-4ca5c1af6dee" width="300" />
+    <img src="https://github.com/user-attachments/assets/077789e2-9595-483b-9a39-a358cc8896f8" width="300" />
+</div>
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/bb35bca5-5a50-46ad-94dc-00c94fd980e3" width="300" />
+    <img src="https://github.com/user-attachments/assets/1eaa663a-adb9-4b2f-96ef-2139cb1acc4e" width="300" />
+    <img src="https://github.com/user-attachments/assets/954d81fe-60ff-4e36-b39b-433e8c285eb5" width="300" />
+</div>
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/bf61c6d3-5e11-4538-9bdf-c1a2d941ad66" width="300" />
+    <img src="https://github.com/user-attachments/assets/2b5ab18a-083d-4224-ad83-cb131fbac93e" width="300" />
+</div>
+
 
 ![image](https://github.com/user-attachments/assets/4c41dfc9-ece1-41c5-b985-406c02bd170d)
 
